@@ -20,6 +20,8 @@ pull request!
 
 Note:
 =====
+For an excelent copy of this list that soomeone else created in a really nice sortable list, check out: 
+- [Backup solutions from kisst.github.io](https://kisst.github.io/others/)
 
 A lot of FOSS backup solutions are merely shells on top of rsync and/or duplicity.
 Perhaps these should have a category of their own, or a tag?
@@ -97,6 +99,7 @@ The following list is sorted alphabetically:
  * [kebab](https://github.com/davidlazar/kebab) review,golang,unmaintained
  * [knoxite](https://github.com/knoxite/knoxite) review,golang,dedup,encrypted,authenticated,incremental,error-correction,compression,s3,gcs,ssh,webdav
  * [kopia](https://github.com/kopia/kopia) api,authenticated,compression,dedup,encryption,gcs,golang,incremental,s3,webdav,web-ui
+ * [luckyBackup](https://luckybackup.sourceforge.net/)) review
  * [obnam](https://obnam.org/) unmaintained,encrypted,gpg
  * [ori](http://ori.scs.stanford.edu/) review
  * [preserve](https://github.com/cholcombe973/preserve) review,rust,dedup,encrypted,unmaintained
